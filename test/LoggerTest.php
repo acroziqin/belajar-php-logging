@@ -20,5 +20,4 @@ class LoggerTest extends TestCase
 
         self::assertNotNull($logger);
     }
-
 }
