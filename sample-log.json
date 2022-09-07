@@ -1,0 +1,18 @@
+{
+  "message": "Belajar PHP Logging",
+  "context": {
+    "username": "roziqin"
+  },
+  "level": 200,
+  "level_name": "INFO",
+  "channel": "KrisnaBeaute\\BelajarPhpMvc\\FormatterTest",
+  "datetime": "2022-09-07T09:38:29.846235+02:00",
+  "extra": {
+    "hostname": "NB7G",
+    "memory_usage": "4 MB",
+    "git": {
+      "branch": "master",
+      "commit": "53cc96884845266414c8c4430e4d1d55034bf9a7"
+    }
+  }
+}
