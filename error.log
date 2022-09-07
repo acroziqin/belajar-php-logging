@@ -1,0 +1,4 @@
+[2022-09-07T08:40:57.358587+02:00] KrisnaBeaute\BelajarPhpMvc\LevelTest.ERROR: This is Error [] []
+[2022-09-07T08:40:57.358928+02:00] KrisnaBeaute\BelajarPhpMvc\LevelTest.CRITICAL: This is Critical [] []
+[2022-09-07T08:40:57.358993+02:00] KrisnaBeaute\BelajarPhpMvc\LevelTest.ALERT: This is Alert [] []
+[2022-09-07T08:40:57.359045+02:00] KrisnaBeaute\BelajarPhpMvc\LevelTest.EMERGENCY: This is Emergency [] []
